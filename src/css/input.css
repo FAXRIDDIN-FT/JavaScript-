@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.container{
+    max-width: 1700px;
+}
+@font-face {
+    font-family: roboto;
+    src: url(/src/font/Roboto-VariableFont_wdth\,wght.ttf);
+}
+@font-face {
+    font-family: out;
+    src: url(/src/font/Outfit-VariableFont_wght.ttf);
+}
